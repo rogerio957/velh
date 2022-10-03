@@ -1,0 +1,8 @@
+#EXTM3U
+#EXTINF:-1
+https://b-hls-16.doppiocdn.com/hls/79157690/79157690.m3u8
+#EXTINF:-2
+https://vs.snrud.com/hls/3ac9/0289/video_720p.mp4/index-v1-a1.m3u8
+#EXTINF:-3
+https://vs.yllov.com/hls/9431/035b/video_368p.mp4/index-v1-a1.m3u8
+
